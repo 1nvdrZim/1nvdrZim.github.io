@@ -1,0 +1,89 @@
+{
+    "applicantName": "Eric Michael Zimmerman",
+    "applicantAge": "27",
+    "applicantSummary": "Data Analyst with a Front-end Web Development Background",
+    "applicantObjective": "Full time position in the field of IT/software development.",
+    "applicantContact": {
+                            "applicantEmail": "ericz8@vt.edu",
+                            "applicantPhone": "4432235787",
+                            "applicantAddress1": "7223 Galgate Drive",
+                            "applicantCity": "Springfield",
+                            "applicantState": "VA",
+                            "applicantZip": "22153"
+    },
+    "applicantBio": [   "3 years of experience in client-side website development using languages HTML, CSS, and Javascript.",
+                        "Experience with responsive platforms using Bootstrap, and content management systems with Kentico",
+                        "Self-taught, quick learner - taking 16 certifications over the last two years in Tableau dashboards, client-side development, and Python. "],
+    "applicantSkils": [
+                        {
+                            "skill": "Python",
+                            "level": "Intermediate",
+                            "certification": [
+                                "Udacity Course, etc..."
+                            ],
+                            "years": 5,
+                            "startDate": " Date Here",
+                            "subSkills": [ {    "skill": "Pandas",
+                                                "level": "Intermediate",
+                                                "certification": [
+                                                    "Coursera Coursework"
+                                                ],
+                                                "years": 5,
+                                                "startDate": " Date Here" 
+                                }]
+                        }, {
+                            "skill": "HTML",
+                            "level": "Intermediate",
+                            "certification": [
+                                "Udacity Course, etc..."
+                            ],
+                            "years": 5,
+                            "startDate": " Date Here"
+                        }, {
+                            "skill": "CSS",
+                            "level": "Intermediate",
+                            "certification": [
+                                "Udacity Course, etc..."
+                            ],
+                            "years": 5,
+                            "startDate": " Date Here"
+                        },{
+                            "skill": "Javascript",
+                            "level": "Intermediate",
+                            "certification": [
+                                "Udacity Course, etc..."
+                            ],
+                            "years": 5,
+                            "startDate": " Date Here"
+                        },{
+                            "skill": "Splunk",
+                            "level": "Intermediate",
+                            "certification": [
+                                    "Splunk Fundamentals Part 1, 2, 3", 
+                                    "Splunk Advanced Searches", 
+                                    "Splunk Creating Dashboards"
+                            ],
+                            "years": 5,
+                            "startDate": " Date Here"
+                        },{
+                            "skill": "Tableau",
+                            "level": "Intermediate",
+                            "certification": [
+                                "Five courses going over the different types of visuals Tableau has to offer, as well as some customized table calculations and customized layered maps"
+                            ],
+                            "years": 5,
+                            "startDate": " Date Here"
+                        },{
+                            "skill": "Git",
+                            "level": "Intermediate",
+                            "certification": [
+                                "Five courses going over the different types of visuals Tableau has to offer, as well as some customized table calculations and customized layered maps"
+                            ],
+                            "additional": ["Github", "GitLab", "BitBucket"],
+                            "years": 5,
+                            "startDate": " Date Here"
+                        }
+
+    ]
+
+}

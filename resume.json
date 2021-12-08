@@ -4,85 +4,127 @@
     "applicantSummary": "Data Analyst with a Front-end Web Development Background",
     "applicantObjective": "Full time position in the field of IT/software development.",
     "applicantContact": {
-                            "applicantEmail": "ericz8@vt.edu",
-                            "applicantPhone": "4432235787",
-                            "applicantAddress1": "7223 Galgate Drive",
-                            "applicantCity": "Springfield",
-                            "applicantState": "VA",
-                            "applicantZip": "22153"
+        "applicantEmail": "ericz8@vt.edu",
+        "applicantPhone": "4432235787",
+        "applicantAddress1": "7223 Galgate Drive",
+        "applicantCity": "Springfield",
+        "applicantState": "VA",
+        "applicantZip": "22153"
     },
-    "applicantBio": [   "3 years of experience in client-side website development using languages HTML, CSS, and Javascript.",
-                        "Experience with responsive platforms using Bootstrap, and content management systems with Kentico",
-                        "Self-taught, quick learner - taking 16 certifications over the last two years in Tableau dashboards, client-side development, and Python. "],
-    "applicantSkils": [
-                        {
-                            "skill": "Python",
-                            "level": "Intermediate",
-                            "certification": [
-                                "Udacity Course, etc..."
-                            ],
-                            "years": 5,
-                            "startDate": " Date Here",
-                            "subSkills": [ {    "skill": "Pandas",
-                                                "level": "Intermediate",
-                                                "certification": [
-                                                    "Coursera Coursework"
-                                                ],
-                                                "years": 5,
-                                                "startDate": " Date Here" 
-                                }]
-                        }, {
-                            "skill": "HTML",
-                            "level": "Intermediate",
-                            "certification": [
-                                "Udacity Course, etc..."
-                            ],
-                            "years": 5,
-                            "startDate": " Date Here"
-                        }, {
-                            "skill": "CSS",
-                            "level": "Intermediate",
-                            "certification": [
-                                "Udacity Course, etc..."
-                            ],
-                            "years": 5,
-                            "startDate": " Date Here"
-                        },{
-                            "skill": "Javascript",
-                            "level": "Intermediate",
-                            "certification": [
-                                "Udacity Course, etc..."
-                            ],
-                            "years": 5,
-                            "startDate": " Date Here"
-                        },{
-                            "skill": "Splunk",
-                            "level": "Intermediate",
-                            "certification": [
-                                    "Splunk Fundamentals Part 1, 2, 3", 
-                                    "Splunk Advanced Searches", 
-                                    "Splunk Creating Dashboards"
-                            ],
-                            "years": 5,
-                            "startDate": " Date Here"
-                        },{
-                            "skill": "Tableau",
-                            "level": "Intermediate",
-                            "certification": [
-                                "Five courses going over the different types of visuals Tableau has to offer, as well as some customized table calculations and customized layered maps"
-                            ],
-                            "years": 5,
-                            "startDate": " Date Here"
-                        },{
-                            "skill": "Git",
-                            "level": "Intermediate",
-                            "certification": [
-                                "Five courses going over the different types of visuals Tableau has to offer, as well as some customized table calculations and customized layered maps"
-                            ],
-                            "additional": ["Github", "GitLab", "BitBucket"],
-                            "years": 5,
-                            "startDate": " Date Here"
-                        }
+    "applicantBio": ["4 years of professional experience in client-side website development and dashboard creation, using languages HTML, CSS, JavaScript, MySQL, Python, and tools such as Splunk and Tableau."
+    ],
+    "applicantSkils": [{
+            "skill": "Python",
+            "level": "Intermediate",
+            "certification": [
+                ""
+            ],
+            "years": 1,
+            "startDate": "April 2021",
+            "subSkills": [{
+                "skill": "Pandas",
+                "level": "Intermediate",
+                "certification": [
+                    ""
+                ],
+                "years": 1,
+                "startDate": "April 2021"
+            }, {
+                "skill": "Flask",
+                "level": "Intermediate",
+                "certification": [
+                    ""
+                ],
+                "years": 1,
+                "startDate": "April 2021"
+            }]
+        }, {
+            "skill": "HTML",
+            "level": "Intermediate",
+            "certification": [
+                "Introduction to HTML5",
+                "Web Design for Everybody: Basics of Web Development & Coding"
+            ],
+            "years": 4,
+            "startDate": "November 2018",
+            "subSkills": [{
+                "skill": "Jinja",
+                "level": "Entry",
+                "certification": [
+                    ""
+                ],
+                "years": 1,
+                "startDate": "April 2021"
+            }]
+        }, {
+            "skill": "CSS",
+            "level": "Intermediate",
+            "certification": [
+                "Introduction to CSS3",
+                "Advanced Styling with Responsive Design"
+            ],
+            "years": 3,
+            "startDate": "November 2018"
+        }, {
+            "skill": "Javascript",
+            "level": "Intermediate",
+            "certification": [
+                "Interactivity with JavaScript",
+                "Web Design for Everybody Capstone"
+            ],
+            "years": 3,
+            "startDate": "November 2018",
+            "subSkills": [{
+                "skill": "Pandas",
+                "level": "Intermediate",
+                "certification": [
+                    ""
+                ],
+                "years": 1,
+                "startDate": "April 2021"
+            }, {
+                "skill": "Flask",
+                "level": "Intermediate",
+                "certification": [
+                    ""
+                ],
+                "years": 1,
+                "startDate": "April 2021"
+            }]
+        }, {
+            "skill": "Splunk",
+            "level": "Intermediate",
+            "certification": [
+                "Splunk Fundamentals Part 1",
+                "Splunk Fundamentals Part 2",
+                "Splunk Fundamentals Part 3",
+                "Splunk Advanced Searches",
+                "Splunk Creating Dashboards"
+            ],
+            "years": 0.5,
+            "startDate": "July 2021"
+        }, {
+            "skill": "Tableau",
+            "level": "Intermediate",
+            "certification": [
+                "Essential Design Principles for Tableau",
+                "Visual Analytics with Tableau",
+                "Data Visualization with Tableau Project",
+                "Fundamentals of Visualization with Tableau",
+                "Creating Dashboards and Storytelling with Tableau"
+            ],
+            "years": 1,
+            "startDate": "November 2018"
+        }, {
+            "skill": "Git",
+            "level": "Intermediate",
+            "certification": [
+                ""
+            ],
+            "additional": ["Github", "GitLab", "BitBucket"],
+            "years": 1,
+            "startDate": "April 2021"
+        }
 
     ]
 
